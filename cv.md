@@ -1,5 +1,5 @@
 <h1>Nazar Savchuk</h1>
-<img src="Nazar Savchuk.jpg" alt="" style="width: 360px; height: 480px; float: left;">
+<img src="Nazar Savchuk.jpg" alt="" style="width: 260px; height: 360px; float: left;">
 <div>e-mail: nazarsavcuk3@gmail.com</div>
 <div>discord: NazarSavchuk#5802</div>
 <h3>Education<h3>
