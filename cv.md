@@ -1,7 +1,11 @@
-<h1>Nazar Savchuk</h1>
+#Nazar Savchuk
+**********
 <img src="Nazar Savchuk.jpg" alt="" style="width: 280px; height: 360px; float: left;">
-<div>e-mail: nazarsavcuk3@gmail.com</div>
-<div>discord: NazarSavchuk#5802</div>
+
+e-mail: nazarsavcuk3@gmail.com
+
+discord: NazarSavchuk#5802
+
 <h3>Education<h3>
 <h4>10.2019 – present<h4>
 <h4>The Andrzej Frycz Modrzewski Krakow Academy
