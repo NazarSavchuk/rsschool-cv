@@ -1,5 +1,5 @@
 # Nazar Savchuk
-<img src="Nazar Savchuk.jpg" alt="" style="width: 280px; height: 360px;">
+<img src="NazarSavchuk.jpg" alt="" style="width: 280px; height: 360px; margin: 16px;">
 
 ******************
 
