@@ -1,5 +1,5 @@
 # Nazar Savchuk
-<img src="Nazar Savchuk.jpg" alt="" style="width: 280px; height: 360px; float: left;">
+![Nazar Savchuk](/Nazar Savchuk.jpg "Nazar Savchuk")
 
 e-mail: nazarsavcuk3@gmail.com
 
