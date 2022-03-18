@@ -1,6 +1,6 @@
 # Nazar Savchuk
-![Nazar Savchuk](/Nazar Savchuk.jpg "Nazar Savchuk")
-
+<img src="Nazar Savchuk.jpg" alt="" style="width: 280px; height: 360px; float: left;">
+========
 e-mail: nazarsavcuk3@gmail.com
 
 discord: NazarSavchuk#5802
